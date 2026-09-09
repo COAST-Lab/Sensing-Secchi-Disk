@@ -1,0 +1,10 @@
+Secchi Depth (cm) = 9999
+Forel Ule Scale = 99
+pH Colour Scale = 99
+SensingSecchi S/N = A017
+Latitude (degs N) = 34.14018
+Longitude (degs E) = -77.86236
+Date = 2026-08-15
+Time (UTC), Pressure (mbar) MS5803, Temp (deg C) MS5803, Temp (deg C) 10KTHERM, Temp (deg C) TMP117, ED 415nm, ED 445nm, ED 480nm, ED 515nm, ED 555nm, ED 590nm, ED 630nm, ED 680nm, ED Clear, ED NIR, ED D-SAT, ED A-SAT, EU 415nm, EU 445nm, EU 480nm, EU 515nm, EU 555nm, EU 590nm, EU 630nm, EU 680nm, EU Clear, EU NIR, EU D-SAT, EU A-SAT
+17:33:31, -4880.30, -513.52, 28.29, 31.602, 434, 638, 906, 1068, 1215, 1193, 1483, 1506, 8973, 3323, 0, 0, 6725, 11031, 14179, 16531, 18076, 18524, 22579, 24566, 36000, 33637, 1, 1
+17:33:31, -4880.30, -513.52, 28.32, -0.008, 355, 519, 743, 882, 1068, 1044, 1308, 1320, 7866, 2993, 0, 0, 6918, 11298, 14620, 16993, 19401, 19701, 24153, 26092, 36000, 36000, 1, 1
