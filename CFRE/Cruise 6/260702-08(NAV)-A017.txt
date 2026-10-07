@@ -1,4 +1,4 @@
-Secchi Depth (cm) = 9999
+17Secchi Depth (cm) = 9999
 Forel Ule Scale = 99
 pH Colour Scale = 99
 SensingSecchi S/N = A017
